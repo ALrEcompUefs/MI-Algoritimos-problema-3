@@ -1,0 +1,40 @@
+5
+20180101
+Estudo da Saúde Bucal das Comunidades Periféricas da cidade de Feira de Santana 
+1-Ciencias da Saude
+João da Silva Martins Filho
+Anésio Bastos
+nenhum
+João da Silva Martins
+
+20180201
+Implementação do primeiros socorros no Hospital X
+1-Ciencias da Saude
+Jean Carlos Pimentel
+Maria Helena Santos
+Estéfane Soares
+João da Silva e Silva
+
+20180102
+Desenvolvendo o pensamento computacional nas escolas
+2-Ciencias Exatas
+Paulo Henrique dos Santos
+José Ângelo Andrade
+nenhum
+nenhum
+
+20180103
+O ensino da língua inglesa na periferia de Feira de Santana
+7-Linguistica, Letras e Artes
+Maria José de Assis
+Flávia Assis
+Silvana Machado
+nenhum
+
+20180203
+Formação continuada docente: estudo de caso da Escola Y
+7-Linguistica, Letras e Artes
+Célia Cristina Pontes
+Flávia Assis
+Silvana Machado
+Maria Alice Machado
